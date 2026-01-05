@@ -1,0 +1,10 @@
+backend/node_modules
+backend/package-lock.json
+backend/.env
+
+
+
+# Build output
+backend/dist
+backend/build
+backend/out
